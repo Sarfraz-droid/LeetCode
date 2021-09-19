@@ -2,14 +2,14 @@ class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
         int n = board.size()/3;
-        for(int i = 0;i<board.size();i++)
-        {
-            for(int j = 0;j<board.size();j++)
-            {
-                cout<<board[i][j]<<" ";
-            }
-            cout<<endl;
-        }
+        // for(int i = 0;i<board.size();i++)
+        // {
+        //     for(int j = 0;j<board.size();j++)
+        //     {
+        //         cout<<board[i][j]<<" ";
+        //     }
+        //     cout<<endl;
+        // }
         for(int i = 0;i<board.size();i++)
         {
             unordered_map<char,int> mp;
