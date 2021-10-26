@@ -13,6 +13,7 @@ public:
         
         int l = INT_MIN;
         int r = INT_MIN;
+        
         if(i+2 < vec.size())
             l = findMax(dp,i+2,vec,maxi+vec[i+2]);
         
