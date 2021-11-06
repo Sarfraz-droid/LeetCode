@@ -1,3 +1,4 @@
+[Discussion Post (created on 6/10/2021 at 19:0)](https://leetcode.com/problems/single-number-iii/discuss/1562776/Simple-Solution-using-HashMap)  
 <h2>260. Single Number III</h2><h3>Medium</h3><hr><div><p>Given an integer array <code>nums</code>, in which exactly two elements appear only once and all the other elements appear exactly twice. Find the two elements that appear only once. You can return the answer in <strong>any order</strong>.</p>
 
 <p>You must write an&nbsp;algorithm that runs in linear runtime complexity and uses&nbsp;only constant extra space.</p>
