@@ -1,3 +1,4 @@
+[Discussion Post (created on 14/10/2021 at 14:25)](https://leetcode.com/problems/iterator-for-combination/discuss/1577530/C%2B%2B-Recursive-Approach-oror-99.95-faster-oror-Detailed-Explanation)  
 <h2>1286. Iterator for Combination</h2><h3>Medium</h3><hr><div><p>Design the <code>CombinationIterator</code> class:</p>
 
 <ul>
