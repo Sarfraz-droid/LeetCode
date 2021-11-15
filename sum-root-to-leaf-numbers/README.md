@@ -1,3 +1,4 @@
+[Discussion Post (created on 16/10/2021 at 1:27)](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/1580116/100-Simple-C%2B%2B-Solution)  
 <h2>129. Sum Root to Leaf Numbers</h2><h3>Medium</h3><hr><div><p>You are given the <code>root</code> of a binary tree containing digits from <code>0</code> to <code>9</code> only.</p>
 
 <p>Each root-to-leaf path in the tree represents a number.</p>
