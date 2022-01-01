@@ -32,9 +32,5 @@ public:
                 vector<vector<int>> dp(nums.size(),vector<int>(nums.size()));
 
         return findMaxCounts(nums,1,nums.size()-1,dp);
-        
-        
-        
-        
     }
 };
