@@ -35,7 +35,7 @@ public:
             if(left[i] != -1){
                 dist = min(dist,(i - left[i]));
             }
-            cout<<i<<" "<<left[i]<<" "<<right[i]<<" "<<dist<<endl;
+            // cout<<i<<" "<<left[i]<<" "<<right[i]<<" "<<dist<<endl;
             ans  = max(ans,dist);
         }
         
