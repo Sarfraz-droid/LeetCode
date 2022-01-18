@@ -14,7 +14,7 @@ public:
         int n = lengthOfList(head);
         if(n == 0)
             return NULL;
-        if(n == 1)
+        else if(n == 1)
             return head;
         int pos = n - k%n;
         if(pos == n)
