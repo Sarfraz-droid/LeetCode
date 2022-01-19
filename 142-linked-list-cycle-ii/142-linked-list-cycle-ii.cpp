@@ -1,19 +1,24 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        set<ListNode*> st;
-        int pos = 1;
-        while(head != NULL){
-            
-            if(st.find(head) != st.end()){
-                return head;
-            }
-            
-            st.insert(head);
-            pos++;
-            head = head->next;
+        ListNode *slow = head, *fast = head;
+        while (fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
+            if (slow == fast) break;
         }
         
-        return NULL;
+        
+        slow = head;
+        
+        if(fast == NULL or fast->next == NULL)
+            return NULL;
+        
+        while(slow !=fast){
+            slow = slow->next;
+            fast=fast->next;
+        }
+        
+        return slow;
     }
 };
