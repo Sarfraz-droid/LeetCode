@@ -54,8 +54,6 @@ public:
             if(!q.empty()) mins++;
         }
         
-        cout<<tot<<" "<<cnt;
-        
         return tot == cnt ? mins : -1;
     }
 
