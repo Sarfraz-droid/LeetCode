@@ -26,11 +26,8 @@ public:
         if(root==NULL)
             return;
         
-        if(hash[h] != false)
+        if(!hash[h])
         {
-            cout<<"\nFound : "<<h<<" : "<<root->val;
-        }else{
-            cout<<"\nAdded : "<<h<<" : "<<root->val;
             ans.push_back(root->val);
             hash[h] = true;
         }
