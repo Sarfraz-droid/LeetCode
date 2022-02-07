@@ -20,9 +20,7 @@ public:
         
         TreeNode* root = new TreeNode(preorder[pre]);
         pre++;
-
-        root->left = helper(preorder,INT_MIN,root->val);
-        
+        root->left = helper(preorder,INT_MIN,root->val);    
         root->right = helper(preorder,root->val,INT_MAX);
 
         return root;
