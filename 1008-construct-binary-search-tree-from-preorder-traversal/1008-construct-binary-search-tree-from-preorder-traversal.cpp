@@ -27,10 +27,6 @@ public:
     }
     
     TreeNode* helper(vector<int>& preorder,int mid,int last){
-        
-        if(pre == size)
-            return NULL;
-        
         if(pre == size or preorder[pre] > last or preorder[pre] < mid){
             return NULL;   
         }
