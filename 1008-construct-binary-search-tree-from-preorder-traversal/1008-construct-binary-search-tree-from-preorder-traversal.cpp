@@ -30,7 +30,6 @@ public:
         
         if(pre == size)
             return NULL;
-        cout<<mid<<" "<<last<<"\n";
         
         if(pre == size or preorder[pre] > last or preorder[pre] < mid){
             return NULL;   
