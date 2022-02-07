@@ -37,7 +37,7 @@ public:
             while(k--){
                 Node* r = q.front();
                 q.pop();
-                cout<<t->val<<" - "<<r->val<<endl;
+                // cout<<t->val<<" - "<<r->val<<endl;
                 t->next = r;
                 t = r;
                 if(r->left) q.push(r->left);                
