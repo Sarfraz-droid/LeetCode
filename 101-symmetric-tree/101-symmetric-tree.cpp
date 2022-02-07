@@ -25,7 +25,6 @@ public:
         else if(left == NULL or right == NULL)
             return false;
         
-        cout<<left->val<<" "<<right->val<<" ";
         
         if(left->val != right->val){
             return false;   
