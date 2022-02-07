@@ -22,18 +22,9 @@ public:
     TreeNode* makeTree(vector<int>& inorder,vector<int>& postorder,int start,int end){
         if(start > end)
             return NULL;
-        
-        cout<<postIndex<<"-"<<start<<" "<<end<<" ";    
-        
-        
         TreeNode* node = new TreeNode(postorder[postIndex]);
-        postIndex--;
-        
-        
-        int mid = midIndex(inorder,start,end,node->val);
-        
-        cout<<mid<<"\n";
-        
+        postIndex--;        
+        int mid = midIndex(inorder,start,end,node->val);        
         if(mid!=-1){
             node->right = makeTree(inorder,postorder,mid+1,end);
             node->left = makeTree(inorder,postorder,start,mid-1);
