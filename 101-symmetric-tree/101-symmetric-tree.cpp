@@ -12,28 +12,17 @@
 class Solution {
 public:
     bool isSymmetric(TreeNode* root) {
-        if(root == NULL)
-            return true;
-        
-        return symm(root->left,root->right);
-        
+        return findSymmetry(root->left,root->right);
     }
     
-    bool symm(TreeNode* left,TreeNode* right){
+    bool findSymmetry(TreeNode* left,TreeNode* right)
+    {
         if(left == NULL and right == NULL)
             return true;
         else if(left == NULL or right == NULL)
             return false;
         
         
-        if(left->val != right->val){
-            return false;   
-        }
-        
-        bool a_left = symm(left->left,right->right);
-        bool a_right = symm(left->right,right->left);
-        
-        return a_left and a_right;
+        return findSymmetry(left->left,right->right) and left->val == right->val and findSymmetry(left->right,right->left);
     }
-    
 };
