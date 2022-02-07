@@ -20,12 +20,9 @@ public:
         
         TreeNode* root = new TreeNode(preorder[pre]);
         pre++;
-        // cout<<pre<<" "<<size<<"\n";
-        if(pre == size)
-            return root;
+
         root->left = helper(preorder,INT_MIN,root->val);
         
-        // cout<<"\n------\n"<<preorder[pre]<<"\n------\n";
         root->right = helper(preorder,root->val,INT_MAX);
 
         return root;
@@ -42,7 +39,6 @@ public:
         }
         
         
-        cout<<preorder[pre]<<" - "<<mid<<" "<<last<<"\n";
         
         TreeNode* root = new TreeNode(preorder[pre]);
         pre++;
