@@ -11,24 +11,27 @@
  */
 class Solution {
 public:
-    vector<int> vec;
+    int ans;
     int kthSmallest(TreeNode* root, int k) {
         TreeNode* head = root;
-        vec.clear();
+        ans = 0;
+        inorder(root,k);        
         
-        inorder(root);
-        
-        return vec[k-1];
-        
+        return ans;
     }
     
-    void inorder(TreeNode* root){
+    void inorder(TreeNode* root,int& count){
         if(root == NULL)
             return;
         
-        inorder(root->left);
-        vec.push_back(root->val);
-        inorder(root->right);
+        inorder(root->left,count);
+        
+        if(count >0){
+            ans = root->val;
+            count--;
+        }
+        
+        inorder(root->right,count);
     }
     
     
