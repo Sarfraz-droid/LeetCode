@@ -16,16 +16,16 @@ public:
         }
         
         vector<int> ans;
-        if(freq_p == window) ans.push_back(0);
+        if(freq_p == window) return true;
         
         for(int i=p_len;i<s_len;i++){
             window[s[i-p_len] - 'a']--;
             window[s[i] - 'a']++;
             
-            if(freq_p == window) ans.push_back(i-p_len+1);
+            if(freq_p == window)return true;
         }
         
-        return ans.size() != 0;
+        return false;
 
     }
 };
