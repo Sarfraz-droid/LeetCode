@@ -12,6 +12,10 @@ class Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
         
+        
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        
         if(head == NULL or head->next == NULL)
             return head;
         
