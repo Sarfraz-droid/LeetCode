@@ -1,13 +1,24 @@
 class Solution {
 public:
-    int dp[101][101][601];
+    int dp[601][101][101];
     int findMaxForm(vector<string>& strs, int m, int n) {
         
-        memset(dp,-1,sizeof(dp));
+        memset(dp,0,sizeof(dp));
         
-        int ans = helper(strs,m,n,strs.size()-1);
-
-        return ans < 0 ? 0: ans;
+        for(int i = 1;i<=strs.size();i++){
+            pair<int,int> temp = countZerosandOne(strs[i-1]);
+            for(int j = 0;j<=m;j++){
+                for(int k = 0;k<=n;k++){
+                    if(temp.first <= j and temp.second <= k)
+                        dp[i][j][k] = max(1 + dp[i-1][j-temp.first][k-temp.second], dp[i-1][j][k]);
+                    else
+                        dp[i][j][k] = dp[i-1][j][k];
+                }
+            }
+        }
+        
+        return dp[strs.size()][m][n];
+        
     }
     
     int helper(vector<string>& strs,int m,int n,int pos){
