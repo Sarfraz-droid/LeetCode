@@ -3,9 +3,11 @@ public:
     
     
     int lengthOfLIS(vector<int>& nums) {
-        vector<int> dp(nums.size(),-1);
-        vector<int> curr;
         
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+        
+        vector<int> dp(nums.size(),-1);
         int ans = 1;
         dp[0] = 1;
         
