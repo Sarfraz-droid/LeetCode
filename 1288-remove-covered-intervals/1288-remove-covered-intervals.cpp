@@ -10,13 +10,14 @@ public:
     
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
         pair<int,int> pr = {-1,-1};
-        
+            ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
         
         int n = intervals.size();
         int ans = n;
         sort(intervals.begin(),intervals.end(),customcomp);
         
-        output(intervals);
+        // output(intervals);
         
         for(int i = 0;i<n;i++){
             pair<int,int> temp = {intervals[i][0],intervals[i][1]};
