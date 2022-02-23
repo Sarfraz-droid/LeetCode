@@ -14,21 +14,16 @@ public:
         queue<Node*> q; //For bfs, we create queue
         q.push(node); // push into queue
         
-        while(q.empty() == false) // until q. empty == false
-        {
-            Node* curr = q.front(); // extract front node
-            q.pop(); // pop that from queue
-            
-            for(auto adj: curr -> neighbors) // now travel in adjcant
-            {
-                if(mp.find(adj) == mp.end()) // if not present in map
-                {
-                    mp[adj] = new Node(adj -> val, {}); // then create copy
-                    q.push(adj); // push nto the queue
-                    
+        while(!q.empty()){
+            Node* curr = q.front();
+            q.pop();
+            for(auto adj : curr->neighbors){
+                if(mp.find(adj) == mp.end()){
+                    mp[adj] = new Node(adj->val,{});
+                    q.push(adj);
                 }
                 
-                mp[curr] -> neighbors.push_back(mp[adj]); // in current node push adjcant node
+                mp[curr] -> neighbors.push_back(mp[adj]);
             }
         }
         
