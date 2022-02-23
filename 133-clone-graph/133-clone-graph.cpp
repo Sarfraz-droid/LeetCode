@@ -1,18 +1,18 @@
 class Solution {
 public:
-    unordered_map<Node* , Node*> mp; // declaring map, to check whwther we have a copy of node or not and also to store copy
+    unordered_map<Node* , Node*> mp;
     
     Node* cloneGraph(Node* node) {
-        if(node == NULL) // if node is null, then simply return null
+        if(node == NULL)
         {
             return NULL;
         }
         
-        Node* first = new Node(node -> val, {}); // make a copy of first node
+        Node* first = new Node(node -> val, {});
         mp[node] = first;
         
-        queue<Node*> q; //For bfs, we create queue
-        q.push(node); // push into queue
+        queue<Node*> q;
+        q.push(node); 
         
         while(!q.empty()){
             Node* curr = q.front();
