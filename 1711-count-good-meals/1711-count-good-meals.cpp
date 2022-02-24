@@ -1,16 +1,19 @@
 class Solution {
 public:
-    int mod = 1e9 + 7;
+    
     int countPairs(vector<int>& num) {
+        int mod = 1e9 + 7;
         
         int count = 0;
         unordered_map<int,int> mp;
         
-        for(int i = 0;i<num.size();i++){
+        int n = num.size();
+        
+        for(int i = 0;i<n;i++){
             mp[num[i]]++;
         }
         
-        for(int i = 0;i<num.size();i++){
+        for(int i = 0;i<n;i++){
             mp[num[i]]--;
             int k =  1;
             for(int j = 0;j<=21;j++){
