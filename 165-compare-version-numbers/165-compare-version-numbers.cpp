@@ -19,16 +19,11 @@ public:
         
         vector<int> v1 = convertString(version1);
         vector<int> v2 = convertString(version2);
-        
-//         output(v1);
-//         output(v2);
-        
-        
+
         int i = 0,j= 0;
         int n = v1.size(), m = v2.size();
         
         while(i<n and j<m){
-            cout<<v1[i]<<" "<<v2[j]<<endl;
             
             if(v1[i] < v2[j]){
                 return -1;
@@ -55,13 +50,6 @@ public:
         return 0;
     }
     
-    void output(vector<int> v){
-        for(auto x : v){
-            cout<<x<<" ";
-        }
-        
-        cout<<endl;
-    }
     
     
 };
