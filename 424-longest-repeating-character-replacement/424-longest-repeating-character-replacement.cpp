@@ -8,7 +8,7 @@ public:
         while(j < s.size()){
             mp[s[j]]++;
             max_cnt = max(max_cnt,mp[s[j]]);
-            if((j-i+1) - max_cnt > k){
+            while((j-i+1) - max_cnt > k){
                 mp[s[i]]--;
                 i++;
             }
