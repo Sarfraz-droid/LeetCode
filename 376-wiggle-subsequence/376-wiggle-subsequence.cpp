@@ -13,7 +13,6 @@ class Solution {
 public:
     int wiggleMaxLength(vector<int>& nums) {
         stack<Node*> st;
-        // st.push(new Node(true,0));
         int n = nums.size();
         int i = 0;
         while(i<n)
@@ -21,7 +20,6 @@ public:
             if(st.size() == 0){
                 st.push(new Node(false,nums[i]));
                 i++;
-                continue;
             }else if(st.size() == 1){
                 Node* top = st.top();
                 if(top->val != nums[i]){
@@ -29,29 +27,27 @@ public:
                     st.push(new Node(type,nums[i]));
                 }
                 i++;
-                continue;
-            }
-            
-            Node* top = st.top();
-            
-            if(top->isIncreasing){
-                if(top->val <= nums[i]){
-                    st.pop();
-                    top->val = nums[i];
-                    st.push(top);
+            }else{            
+                Node* top = st.top();            
+                if(top->isIncreasing){
+                    if(top->val <= nums[i]){
+                        st.pop();
+                        top->val = nums[i];
+                        st.push(top);
+                    }else{
+                        st.push(new Node(false,nums[i]));
+                    }
                 }else{
-                    st.push(new Node(false,nums[i]));
+                    if(top->val >= nums[i]){
+                        st.pop();
+                        top->val = nums[i];
+                        st.push(top);
+                    }else{
+                        st.push(new Node(true,nums[i]));
+                    }
                 }
-            }else{
-                if(top->val >= nums[i]){
-                    st.pop();
-                    top->val = nums[i];
-                    st.push(top);
-                }else{
-                    st.push(new Node(true,nums[i]));
-                }
+                i++;
             }
-            i++;
         }
         
         return st.size();
