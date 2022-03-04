@@ -19,13 +19,6 @@ public:
             }
         }
         
-        for(int i = 1;i<=query_row;i++){
-            
-            for(int j = 1;j<=i;j++){
-                cout<<dp[i][j]<<" ";
-            }
-            cout<<endl;
-        }
         return dp[query_row][query_glass] > 1 ? double(1) : dp[query_row][query_glass];
     }
 };
