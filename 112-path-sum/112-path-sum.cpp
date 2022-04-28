@@ -31,7 +31,9 @@ public:
             ans= ans or helper(root->left,targetSum);
         }
         
-        if(root->right != NULL){
+        
+        
+        if(!ans and root->right != NULL){
             ans= ans or helper(root->right,targetSum);
         }
         
