@@ -13,26 +13,25 @@ class Solution {
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
         
+        if(root == NULL)
+            return false;
+        
         return helper(root,targetSum);
     }
     
     bool helper(TreeNode* root, int targetSum){
-        
-        if(root == NULL)
-            return false;
+
         targetSum -= root->val;
 
         if(root->left == NULL and root->right == NULL)
-            return (targetSum) == 0;
+            return targetSum == 0;
         
         bool ans = false;
         
         if(root->left != NULL){
             ans= ans or helper(root->left,targetSum);
         }
-        
-        
-        
+    
         if(!ans and root->right != NULL){
             ans= ans or helper(root->right,targetSum);
         }
