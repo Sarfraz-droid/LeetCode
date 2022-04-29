@@ -22,15 +22,10 @@ public:
         
         return true;
     }
-    
-    bool isundirected(vector<vector<int>>& graph,int i,int parent){
-        return find(graph[i].begin(),graph[i].end(),parent) == graph[i].end();
-    }
+
     
     bool isBipartite(vector<vector<int>>& graph) {
         n = graph.size();
-        
-        // visited.resize(n,false);
         col.resize(n,-1);
         
         for(int i = 0;i<n;i++){
