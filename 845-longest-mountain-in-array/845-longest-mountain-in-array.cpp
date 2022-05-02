@@ -28,8 +28,6 @@ public:
             else{
                 
                 int len = right[i] - left[i]+1;            
-                
-                cout<<"\n"<<arr[i]<<" = "<<len<<" from "<<left[i]<<" to "<<right[i];
                 maxmount = max(maxmount,len);
             }
         }
