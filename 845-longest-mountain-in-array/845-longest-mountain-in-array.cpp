@@ -5,21 +5,23 @@ public:
         vector<int> left(n);
         vector<int> right(n);
         left[0] = 0;
+        right[n-1] = n-1;
         for(int i = 1;i<n;i++){
             if(arr[i-1] >= arr[i]){
                 left[i] = i;
             }else{
                 left[i] = left[i-1];
             }
-        }
-        right[n-1] = n-1;
-        for(int i = n-2;i>=0;i--){
-            if(arr[i+1] >= arr[i]){
-                right[i] = i;
+            
+            int j = n-1-i;
+            
+            if(arr[j+1] >= arr[j]){
+                right[j] = j;
             }else{
-                right[i] = right[i+1];
+                right[j] = right[j+1];
             }
         }
+
         
         int maxmount = INT_MIN;
         for(int i = 0;i<n;i++){
