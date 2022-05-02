@@ -26,7 +26,6 @@ public:
             if(left[i] == i or right[i] == i)
                 maxmount = max(maxmount,0);
             else{
-                
                 int len = right[i] - left[i]+1;            
                 maxmount = max(maxmount,len);
             }
