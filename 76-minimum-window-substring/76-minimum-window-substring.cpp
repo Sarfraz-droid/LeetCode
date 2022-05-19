@@ -33,7 +33,7 @@ public:
                 if(ans =="")
                     ans = window;
                 else
-                    ans = ans.size() < window.size() ? ans : window;
+                    ans = ans.size() < w_size ? ans : window;
             }
             
             
