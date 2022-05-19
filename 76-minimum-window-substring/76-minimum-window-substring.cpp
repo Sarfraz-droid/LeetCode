@@ -17,6 +17,10 @@ public:
             window.push_back(s[i]);
             hash2[s[i]]++;
             w_size++;
+            
+            if(w_size < t_size){
+                continue;
+            }
             while(w_size > 0){
                 char front = window[0];
                 
