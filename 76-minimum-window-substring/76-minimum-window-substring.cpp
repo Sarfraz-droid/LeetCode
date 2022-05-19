@@ -11,16 +11,19 @@ public:
         }
         
         string ans = "";
+        int w_size = 0;
         for(int i = 0;i<s.size();i++){
             
             window.push_back(s[i]);
             hash2[s[i]]++;
-            while(window.size() > 0){
+            w_size++;
+            while(w_size > 0){
                 char front = window[0];
                 
                 if((hash2[front]-1) >= hash1[front]){
                     window.erase(0,1);
-                    hash2[front]--;            
+                    hash2[front]--;     
+                    w_size--;
                 }else{
                     break;
                 }
