@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1291-sequential-digits
-date: 2022-06-25T14:20:30.297Z
+date: 2022-06-25T14:28:04.958Z
 ---
 
 ```
@@ -57,7 +57,7 @@ public:
  ---
 layout: post
 title: 1291-sequential-digits
-date: 2022-06-25T14:20:30.297Z
+date: 2022-06-25T14:28:04.957Z
 ---
 
 ```

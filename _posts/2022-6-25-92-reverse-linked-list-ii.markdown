@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 92-reverse-linked-list-ii
-date: 2022-06-25T14:20:30.410Z
+date: 2022-06-25T14:28:05.048Z
 ---
 
 ```
@@ -165,7 +165,7 @@ public:
  ---
 layout: post
 title: 92-reverse-linked-list-ii
-date: 2022-06-25T14:20:30.410Z
+date: 2022-06-25T14:28:05.048Z
 ---
 
 ```

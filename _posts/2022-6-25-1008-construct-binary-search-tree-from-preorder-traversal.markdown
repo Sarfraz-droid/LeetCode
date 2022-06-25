@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1008-construct-binary-search-tree-from-preorder-traversal
-date: 2022-06-25T14:20:30.282Z
+date: 2022-06-25T14:28:04.944Z
 ---
 
 ```
@@ -89,7 +89,7 @@ public:
  ---
 layout: post
 title: 1008-construct-binary-search-tree-from-preorder-traversal
-date: 2022-06-25T14:20:30.282Z
+date: 2022-06-25T14:28:04.944Z
 ---
 
 ```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1689-partitioning-into-minimum-number-of-deci-binary-numbers
-date: 2022-06-25T14:20:30.313Z
+date: 2022-06-25T14:28:04.967Z
 ---
 
 ```
@@ -60,7 +60,7 @@ public:
  ---
 layout: post
 title: 1689-partitioning-into-minimum-number-of-deci-binary-numbers
-date: 2022-06-25T14:20:30.312Z
+date: 2022-06-25T14:28:04.967Z
 ---
 
 ```

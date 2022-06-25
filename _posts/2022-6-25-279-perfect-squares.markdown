@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 279-perfect-squares
-date: 2022-06-25T14:20:30.338Z
+date: 2022-06-25T14:28:04.981Z
 ---
 
 ```

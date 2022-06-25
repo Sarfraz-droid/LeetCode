@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 376-wiggle-subsequence
-date: 2022-06-25T14:20:30.340Z
+date: 2022-06-25T14:28:04.985Z
 ---
 
 ```
@@ -113,7 +113,7 @@ public:
  ---
 layout: post
 title: 376-wiggle-subsequence
-date: 2022-06-25T14:20:30.340Z
+date: 2022-06-25T14:28:04.985Z
 ---
 
 ```

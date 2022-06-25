@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 424-longest-repeating-character-replacement
-date: 2022-06-25T14:20:30.390Z
+date: 2022-06-25T14:28:05.024Z
 ---
 
 ```
@@ -66,7 +66,7 @@ public:
  ---
 layout: post
 title: 424-longest-repeating-character-replacement
-date: 2022-06-25T14:20:30.390Z
+date: 2022-06-25T14:28:05.024Z
 ---
 
 ```

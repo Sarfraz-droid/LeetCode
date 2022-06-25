@@ -1,7 +1,7 @@
 ---
 layout: post
 title: search-a-2d-matrix
-date: 2022-06-25T14:20:30.520Z
+date: 2022-06-25T14:28:05.118Z
 ---
 
 ```

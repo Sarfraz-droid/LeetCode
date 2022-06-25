@@ -54,7 +54,7 @@ const parseFolders = (folderPath) => {
   // console.log(markdowns);
 
   if (markdowns["README.md"]) {
-    const dir = `_post`;
+    const dir = `_posts`;
     if (!fs.existsSync(dir)) {
       fs.mkdirSync(dir);
     }
@@ -66,7 +66,7 @@ const parseFolders = (folderPath) => {
     ].join("\n");
 
     fs.writeFile(
-      `_post/${new Date().getFullYear()}-${
+      `_posts/${new Date().getFullYear()}-${
         new Date().getUTCMonth() + 1
       }-${new Date().getUTCDate()}-${folderPath}.markdown`,
       text,

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 264-ugly-number-ii
-date: 2022-06-25T14:20:30.337Z
+date: 2022-06-25T14:28:04.981Z
 ---
 
 ```
@@ -37,7 +37,7 @@ Constraints:
  ---
 layout: post
 title: 264-ugly-number-ii
-date: 2022-06-25T14:20:30.337Z
+date: 2022-06-25T14:28:04.981Z
 ---
 
 ```

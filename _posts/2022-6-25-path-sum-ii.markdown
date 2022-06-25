@@ -1,7 +1,7 @@
 ---
 layout: post
 title: path-sum-ii
-date: 2022-06-25T14:20:30.457Z
+date: 2022-06-25T14:28:05.085Z
 ---
 
 ```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: generate-parentheses
-date: 2022-06-25T14:20:30.448Z
+date: 2022-06-25T14:28:05.078Z
 ---
 
 ```

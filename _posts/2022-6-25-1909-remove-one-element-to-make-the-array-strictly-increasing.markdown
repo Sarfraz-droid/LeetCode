@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1909-remove-one-element-to-make-the-array-strictly-increasing
-date: 2022-06-25T14:20:30.321Z
+date: 2022-06-25T14:28:04.972Z
 ---
 
 ```

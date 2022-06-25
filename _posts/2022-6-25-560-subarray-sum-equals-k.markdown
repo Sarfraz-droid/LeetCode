@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 560-subarray-sum-equals-k
-date: 2022-06-25T14:20:30.399Z
+date: 2022-06-25T14:28:05.031Z
 ---
 
 ```
@@ -70,7 +70,7 @@ public:
  ---
 layout: post
 title: 560-subarray-sum-equals-k
-date: 2022-06-25T14:20:30.399Z
+date: 2022-06-25T14:28:05.031Z
 ---
 
 ```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: remove-all-adjacent-duplicates-in-string
-date: 2022-06-25T14:20:30.459Z
+date: 2022-06-25T14:28:05.086Z
 ---
 
 ```

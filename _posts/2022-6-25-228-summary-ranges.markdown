@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 228-summary-ranges
-date: 2022-06-25T14:20:30.327Z
+date: 2022-06-25T14:28:04.977Z
 ---
 
 ```

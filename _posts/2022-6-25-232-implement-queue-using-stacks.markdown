@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 232-implement-queue-using-stacks
-date: 2022-06-25T14:20:30.329Z
+date: 2022-06-25T14:28:04.977Z
 ---
 
 ```

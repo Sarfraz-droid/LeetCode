@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 21-merge-two-sorted-lists
-date: 2022-06-25T14:20:30.325Z
+date: 2022-06-25T14:28:04.975Z
 ---
 
 ```
@@ -106,7 +106,7 @@ public:
  ---
 layout: post
 title: 21-merge-two-sorted-lists
-date: 2022-06-25T14:20:30.325Z
+date: 2022-06-25T14:28:04.975Z
 ---
 
 ```

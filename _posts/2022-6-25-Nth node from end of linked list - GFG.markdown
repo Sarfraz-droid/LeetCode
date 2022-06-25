@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nth node from end of linked list - GFG
-date: 2022-06-25T14:20:30.417Z
+date: 2022-06-25T14:28:05.055Z
 ---
 
 ```

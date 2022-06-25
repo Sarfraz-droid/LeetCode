@@ -1,7 +1,7 @@
 ---
 layout: post
 title: convert-binary-number-in-a-linked-list-to-integer
-date: 2022-06-25T14:20:30.439Z
+date: 2022-06-25T14:28:05.073Z
 ---
 
 ```

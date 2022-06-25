@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 46-permutations
-date: 2022-06-25T14:20:30.394Z
+date: 2022-06-25T14:28:05.027Z
 ---
 
 ```
@@ -65,7 +65,7 @@ public:
  ---
 layout: post
 title: 46-permutations
-date: 2022-06-25T14:20:30.393Z
+date: 2022-06-25T14:28:05.027Z
 ---
 
 ```

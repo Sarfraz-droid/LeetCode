@@ -1,7 +1,7 @@
 ---
 layout: post
 title: minimum-falling-path-sum
-date: 2022-06-25T14:20:30.454Z
+date: 2022-06-25T14:28:05.083Z
 ---
 
 ```

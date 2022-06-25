@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1288-remove-covered-intervals
-date: 2022-06-25T14:20:30.296Z
+date: 2022-06-25T14:28:04.957Z
 ---
 
 ```
@@ -86,7 +86,7 @@ public:
  ---
 layout: post
 title: 1288-remove-covered-intervals
-date: 2022-06-25T14:20:30.296Z
+date: 2022-06-25T14:28:04.956Z
 ---
 
 ```

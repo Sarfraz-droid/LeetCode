@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 104-maximum-depth-of-binary-tree
-date: 2022-06-25T14:20:30.288Z
+date: 2022-06-25T14:28:04.948Z
 ---
 
 ```
@@ -59,7 +59,7 @@ public:
  ---
 layout: post
 title: 104-maximum-depth-of-binary-tree
-date: 2022-06-25T14:20:30.287Z
+date: 2022-06-25T14:28:04.948Z
 ---
 
 ```

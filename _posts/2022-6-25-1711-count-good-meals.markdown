@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1711-count-good-meals
-date: 2022-06-25T14:20:30.316Z
+date: 2022-06-25T14:28:04.969Z
 ---
 
 ```
@@ -80,7 +80,7 @@ public:
  ---
 layout: post
 title: 1711-count-good-meals
-date: 2022-06-25T14:20:30.316Z
+date: 2022-06-25T14:28:04.969Z
 ---
 
 ```

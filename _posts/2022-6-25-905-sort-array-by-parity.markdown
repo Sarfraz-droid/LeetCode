@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 905-sort-array-by-parity
-date: 2022-06-25T14:20:30.409Z
+date: 2022-06-25T14:28:05.047Z
 ---
 
 ```
@@ -55,7 +55,7 @@ public:
  ---
 layout: post
 title: 905-sort-array-by-parity
-date: 2022-06-25T14:20:30.409Z
+date: 2022-06-25T14:28:05.047Z
 ---
 
 ```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 94-binary-tree-inorder-traversal
-date: 2022-06-25T14:20:30.412Z
+date: 2022-06-25T14:28:05.048Z
 ---
 
 ```
@@ -76,7 +76,7 @@ public:
  ---
 layout: post
 title: 94-binary-tree-inorder-traversal
-date: 2022-06-25T14:20:30.411Z
+date: 2022-06-25T14:28:05.048Z
 ---
 
 ```

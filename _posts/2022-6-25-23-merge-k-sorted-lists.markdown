@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 23-merge-k-sorted-lists
-date: 2022-06-25T14:20:30.328Z
+date: 2022-06-25T14:28:04.977Z
 ---
 
 ```
@@ -54,7 +54,7 @@ Constraints:
  ---
 layout: post
 title: 23-merge-k-sorted-lists
-date: 2022-06-25T14:20:30.328Z
+date: 2022-06-25T14:28:04.977Z
 ---
 
 ```

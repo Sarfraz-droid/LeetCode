@@ -1,7 +1,7 @@
 ---
 layout: post
 title: number-of-submatrices-that-sum-to-target
-date: 2022-06-25T14:20:30.456Z
+date: 2022-06-25T14:28:05.084Z
 ---
 
 ```

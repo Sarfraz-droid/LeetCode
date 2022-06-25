@@ -1,7 +1,7 @@
 ---
 layout: post
 title: find-the-winner-of-the-circular-game
-date: 2022-06-25T14:20:30.446Z
+date: 2022-06-25T14:28:05.077Z
 ---
 
 ```

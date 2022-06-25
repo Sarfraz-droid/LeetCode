@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1382-balance-a-binary-search-tree
-date: 2022-06-25T14:20:30.301Z
+date: 2022-06-25T14:28:04.961Z
 ---
 
 ```
@@ -91,7 +91,7 @@ public:
  ---
 layout: post
 title: 1382-balance-a-binary-search-tree
-date: 2022-06-25T14:20:30.301Z
+date: 2022-06-25T14:28:04.960Z
 ---
 
 ```

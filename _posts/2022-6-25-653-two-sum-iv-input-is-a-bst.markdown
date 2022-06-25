@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 653-two-sum-iv-input-is-a-bst
-date: 2022-06-25T14:20:30.403Z
+date: 2022-06-25T14:28:05.038Z
 ---
 
 ```
@@ -80,7 +80,7 @@ public:
  ---
 layout: post
 title: 653-two-sum-iv-input-is-a-bst
-date: 2022-06-25T14:20:30.403Z
+date: 2022-06-25T14:28:05.038Z
 ---
 
 ```

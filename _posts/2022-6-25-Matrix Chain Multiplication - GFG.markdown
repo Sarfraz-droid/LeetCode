@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Matrix Chain Multiplication - GFG
-date: 2022-06-25T14:20:30.416Z
+date: 2022-06-25T14:28:05.054Z
 ---
 
 ```

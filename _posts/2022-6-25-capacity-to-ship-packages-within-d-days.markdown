@@ -1,7 +1,7 @@
 ---
 layout: post
 title: capacity-to-ship-packages-within-d-days
-date: 2022-06-25T14:20:30.438Z
+date: 2022-06-25T14:28:05.071Z
 ---
 
 ```

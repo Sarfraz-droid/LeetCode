@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 258-add-digits
-date: 2022-06-25T14:20:30.335Z
+date: 2022-06-25T14:28:04.979Z
 ---
 
 ```
@@ -40,7 +40,7 @@ Follow up: Could you do it without any loop/recursion in O(1) runtime?
  ---
 layout: post
 title: 258-add-digits
-date: 2022-06-25T14:20:30.335Z
+date: 2022-06-25T14:28:04.979Z
 ---
 
 ```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 290-word-pattern
-date: 2022-06-25T14:20:30.338Z
+date: 2022-06-25T14:28:04.982Z
 ---
 
 ```
@@ -91,7 +91,7 @@ public:
  ---
 layout: post
 title: 290-word-pattern
-date: 2022-06-25T14:20:30.338Z
+date: 2022-06-25T14:28:04.982Z
 ---
 
 ```

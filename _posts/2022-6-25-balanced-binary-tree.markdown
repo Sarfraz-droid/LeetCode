@@ -1,7 +1,7 @@
 ---
 layout: post
 title: balanced-binary-tree
-date: 2022-06-25T14:20:30.435Z
+date: 2022-06-25T14:28:05.069Z
 ---
 
 ```

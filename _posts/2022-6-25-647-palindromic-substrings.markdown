@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 647-palindromic-substrings
-date: 2022-06-25T14:20:30.403Z
+date: 2022-06-25T14:28:05.037Z
 ---
 
 ```
@@ -81,7 +81,7 @@ public:
  ---
 layout: post
 title: 647-palindromic-substrings
-date: 2022-06-25T14:20:30.403Z
+date: 2022-06-25T14:28:05.037Z
 ---
 
 ```

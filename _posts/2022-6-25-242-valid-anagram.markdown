@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 242-valid-anagram
-date: 2022-06-25T14:20:30.334Z
+date: 2022-06-25T14:28:04.978Z
 ---
 
 ```

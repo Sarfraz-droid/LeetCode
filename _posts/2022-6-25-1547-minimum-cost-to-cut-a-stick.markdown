@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1547-minimum-cost-to-cut-a-stick
-date: 2022-06-25T14:20:30.309Z
+date: 2022-06-25T14:28:04.964Z
 ---
 
 ```

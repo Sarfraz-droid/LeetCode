@@ -1,7 +1,7 @@
 ---
 layout: post
 title: guess-number-higher-or-lower
-date: 2022-06-25T14:20:30.448Z
+date: 2022-06-25T14:28:05.079Z
 ---
 
 ```

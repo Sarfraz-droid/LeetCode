@@ -1,7 +1,7 @@
 ---
 layout: post
 title: flatten-a-multilevel-doubly-linked-list
-date: 2022-06-25T14:20:30.447Z
+date: 2022-06-25T14:28:05.078Z
 ---
 
 ```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1004-max-consecutive-ones-iii
-date: 2022-06-25T14:20:30.281Z
+date: 2022-06-25T14:28:04.942Z
 ---
 
 ```
@@ -65,7 +65,7 @@ public:
  ---
 layout: post
 title: 1004-max-consecutive-ones-iii
-date: 2022-06-25T14:20:30.281Z
+date: 2022-06-25T14:28:04.942Z
 ---
 
 ```
