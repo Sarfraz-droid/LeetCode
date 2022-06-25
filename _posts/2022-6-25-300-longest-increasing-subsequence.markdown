@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 300-longest-increasing-subsequence
-date: 2022-06-25T14:28:04.983Z
+date: 2022-06-25T14:52:08.057Z
 ---
 
 ```
@@ -84,7 +84,7 @@ public:
  ---
 layout: post
 title: 300-longest-increasing-subsequence
-date: 2022-06-25T14:28:04.983Z
+date: 2022-06-25T14:52:08.057Z
 ---
 
 ```

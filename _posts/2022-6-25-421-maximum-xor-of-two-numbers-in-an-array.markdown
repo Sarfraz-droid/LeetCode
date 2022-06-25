@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 421-maximum-xor-of-two-numbers-in-an-array
-date: 2022-06-25T14:28:05.024Z
+date: 2022-06-25T14:52:08.063Z
 ---
 
 ```

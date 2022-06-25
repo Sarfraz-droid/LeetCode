@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1081-smallest-subsequence-of-distinct-characters
-date: 2022-06-25T14:28:04.950Z
+date: 2022-06-25T14:52:08.018Z
 ---
 
 ```
@@ -36,7 +36,7 @@ Note: This question is the same as 316: https://leetcode.com/problems/remove-dup
  ---
 layout: post
 title: 1081-smallest-subsequence-of-distinct-characters
-date: 2022-06-25T14:28:04.950Z
+date: 2022-06-25T14:52:08.018Z
 ---
 
 ```

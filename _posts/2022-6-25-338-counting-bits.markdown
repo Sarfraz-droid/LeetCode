@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 338-counting-bits
-date: 2022-06-25T14:28:04.984Z
+date: 2022-06-25T14:52:08.058Z
 ---
 
 ```
@@ -52,7 +52,7 @@ Follow up:
  ---
 layout: post
 title: 338-counting-bits
-date: 2022-06-25T14:28:04.984Z
+date: 2022-06-25T14:52:08.058Z
 ---
 
 ```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 208-implement-trie-prefix-tree
-date: 2022-06-25T14:28:04.975Z
+date: 2022-06-25T14:52:08.047Z
 ---
 
 ```
@@ -50,7 +50,7 @@ Constraints:
  ---
 layout: post
 title: 208-implement-trie-prefix-tree
-date: 2022-06-25T14:28:04.975Z
+date: 2022-06-25T14:52:08.046Z
 ---
 
 ```

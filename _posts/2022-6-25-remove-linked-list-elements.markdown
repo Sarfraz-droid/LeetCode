@@ -1,7 +1,7 @@
 ---
 layout: post
 title: remove-linked-list-elements
-date: 2022-06-25T14:28:05.115Z
+date: 2022-06-25T14:52:08.147Z
 ---
 
 ```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: implement-trie-prefix-tree
-date: 2022-06-25T14:28:05.080Z
+date: 2022-06-25T14:52:08.135Z
 ---
 
 ```

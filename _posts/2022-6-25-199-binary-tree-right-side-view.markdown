@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 199-binary-tree-right-side-view
-date: 2022-06-25T14:28:04.974Z
+date: 2022-06-25T14:52:08.045Z
 ---
 
 ```
@@ -82,7 +82,7 @@ public:
  ---
 layout: post
 title: 199-binary-tree-right-side-view
-date: 2022-06-25T14:28:04.974Z
+date: 2022-06-25T14:52:08.045Z
 ---
 
 ```

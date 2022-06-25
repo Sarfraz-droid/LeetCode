@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 24-swap-nodes-in-pairs
-date: 2022-06-25T14:28:04.978Z
+date: 2022-06-25T14:52:08.052Z
 ---
 
 ```
@@ -76,7 +76,7 @@ public:
  ---
 layout: post
 title: 24-swap-nodes-in-pairs
-date: 2022-06-25T14:28:04.978Z
+date: 2022-06-25T14:52:08.052Z
 ---
 
 ```

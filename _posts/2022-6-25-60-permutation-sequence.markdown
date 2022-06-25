@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 60-permutation-sequence
-date: 2022-06-25T14:28:05.033Z
+date: 2022-06-25T14:52:08.089Z
 ---
 
 ```
@@ -79,7 +79,7 @@ public:
  ---
 layout: post
 title: 60-permutation-sequence
-date: 2022-06-25T14:28:05.033Z
+date: 2022-06-25T14:52:08.089Z
 ---
 
 ```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 37-sudoku-solver
-date: 2022-06-25T14:28:04.985Z
+date: 2022-06-25T14:52:08.058Z
 ---
 
 ```

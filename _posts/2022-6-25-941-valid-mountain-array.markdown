@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 941-valid-mountain-array
-date: 2022-06-25T14:28:05.049Z
+date: 2022-06-25T14:52:08.100Z
 ---
 
 ```
@@ -77,7 +77,7 @@ public:
  ---
 layout: post
 title: 941-valid-mountain-array
-date: 2022-06-25T14:28:05.049Z
+date: 2022-06-25T14:52:08.100Z
 ---
 
 ```

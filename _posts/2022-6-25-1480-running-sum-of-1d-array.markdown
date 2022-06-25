@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1480-running-sum-of-1d-array
-date: 2022-06-25T14:28:04.963Z
+date: 2022-06-25T14:52:08.035Z
 ---
 
 ```

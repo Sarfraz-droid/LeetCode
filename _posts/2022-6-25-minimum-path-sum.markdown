@@ -1,7 +1,7 @@
 ---
 layout: post
 title: minimum-path-sum
-date: 2022-06-25T14:28:05.084Z
+date: 2022-06-25T14:52:08.142Z
 ---
 
 ```

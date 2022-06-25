@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 413-arithmetic-slices
-date: 2022-06-25T14:28:05.023Z
+date: 2022-06-25T14:52:08.061Z
 ---
 
 ```
@@ -71,7 +71,7 @@ public:
  ---
 layout: post
 title: 413-arithmetic-slices
-date: 2022-06-25T14:28:05.023Z
+date: 2022-06-25T14:52:08.061Z
 ---
 
 ```

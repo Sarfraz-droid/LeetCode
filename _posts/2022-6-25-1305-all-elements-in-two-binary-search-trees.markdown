@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1305-all-elements-in-two-binary-search-trees
-date: 2022-06-25T14:28:04.958Z
+date: 2022-06-25T14:52:08.028Z
 ---
 
 ```
@@ -71,7 +71,7 @@ public:
  ---
 layout: post
 title: 1305-all-elements-in-two-binary-search-trees
-date: 2022-06-25T14:28:04.958Z
+date: 2022-06-25T14:52:08.027Z
 ---
 
 ```

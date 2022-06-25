@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2259-remove-digit-from-number-to-maximize-result
-date: 2022-06-25T14:28:04.976Z
+date: 2022-06-25T14:52:08.049Z
 ---
 
 ```

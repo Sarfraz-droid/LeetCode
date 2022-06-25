@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 700-search-in-a-binary-search-tree
-date: 2022-06-25T14:28:05.039Z
+date: 2022-06-25T14:52:08.093Z
 ---
 
 ```
@@ -69,7 +69,7 @@ public:
  ---
 layout: post
 title: 700-search-in-a-binary-search-tree
-date: 2022-06-25T14:28:05.038Z
+date: 2022-06-25T14:52:08.093Z
 ---
 
 ```

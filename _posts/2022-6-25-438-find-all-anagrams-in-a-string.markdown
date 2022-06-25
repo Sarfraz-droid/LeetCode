@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 438-find-all-anagrams-in-a-string
-date: 2022-06-25T14:28:05.025Z
+date: 2022-06-25T14:52:08.064Z
 ---
 
 ```
@@ -43,7 +43,7 @@ Constraints:
  ---
 layout: post
 title: 438-find-all-anagrams-in-a-string
-date: 2022-06-25T14:28:05.025Z
+date: 2022-06-25T14:52:08.064Z
 ---
 
 ```

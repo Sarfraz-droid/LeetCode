@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 525-contiguous-array
-date: 2022-06-25T14:28:05.030Z
+date: 2022-06-25T14:52:08.070Z
 ---
 
 ```
@@ -66,7 +66,7 @@ public:
  ---
 layout: post
 title: 525-contiguous-array
-date: 2022-06-25T14:28:05.030Z
+date: 2022-06-25T14:52:08.070Z
 ---
 
 ```

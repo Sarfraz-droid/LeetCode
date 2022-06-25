@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 540-single-element-in-a-sorted-array
-date: 2022-06-25T14:28:05.030Z
+date: 2022-06-25T14:52:08.071Z
 ---
 
 ```
@@ -55,7 +55,7 @@ public:
  ---
 layout: post
 title: 540-single-element-in-a-sorted-array
-date: 2022-06-25T14:28:05.030Z
+date: 2022-06-25T14:52:08.071Z
 ---
 
 ```

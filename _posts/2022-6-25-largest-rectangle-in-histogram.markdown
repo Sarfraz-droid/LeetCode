@@ -1,7 +1,7 @@
 ---
 layout: post
 title: largest-rectangle-in-histogram
-date: 2022-06-25T14:28:05.081Z
+date: 2022-06-25T14:52:08.138Z
 ---
 
 ```

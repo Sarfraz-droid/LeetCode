@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 740-delete-and-earn
-date: 2022-06-25T14:28:05.040Z
+date: 2022-06-25T14:52:08.095Z
 ---
 
 ```
@@ -70,7 +70,7 @@ public:
  ---
 layout: post
 title: 740-delete-and-earn
-date: 2022-06-25T14:28:05.040Z
+date: 2022-06-25T14:52:08.094Z
 ---
 
 ```

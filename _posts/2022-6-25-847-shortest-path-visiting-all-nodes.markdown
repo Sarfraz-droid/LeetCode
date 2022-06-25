@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 847-shortest-path-visiting-all-nodes
-date: 2022-06-25T14:28:05.044Z
+date: 2022-06-25T14:52:08.098Z
 ---
 
 ```
@@ -111,7 +111,7 @@ public:
  ---
 layout: post
 title: 847-shortest-path-visiting-all-nodes
-date: 2022-06-25T14:28:05.044Z
+date: 2022-06-25T14:52:08.097Z
 ---
 
 ```

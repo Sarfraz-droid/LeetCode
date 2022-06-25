@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 844-backspace-string-compare
-date: 2022-06-25T14:28:05.043Z
+date: 2022-06-25T14:52:08.097Z
 ---
 
 ```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 283-move-zeroes
-date: 2022-06-25T14:28:04.981Z
+date: 2022-06-25T14:52:08.055Z
 ---
 
 ```
@@ -50,7 +50,7 @@ public:
  ---
 layout: post
 title: 283-move-zeroes
-date: 2022-06-25T14:28:04.981Z
+date: 2022-06-25T14:52:08.055Z
 ---
 
 ```

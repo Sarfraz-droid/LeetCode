@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 532-k-diff-pairs-in-an-array
-date: 2022-06-25T14:28:05.030Z
+date: 2022-06-25T14:52:08.071Z
 ---
 
 ```
@@ -81,7 +81,7 @@ public:
  ---
 layout: post
 title: 532-k-diff-pairs-in-an-array
-date: 2022-06-25T14:28:05.030Z
+date: 2022-06-25T14:52:08.070Z
 ---
 
 ```

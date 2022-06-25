@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 114-flatten-binary-tree-to-linked-list
-date: 2022-06-25T14:28:04.952Z
+date: 2022-06-25T14:52:08.019Z
 ---
 
 ```
@@ -89,7 +89,7 @@ public:
  ---
 layout: post
 title: 114-flatten-binary-tree-to-linked-list
-date: 2022-06-25T14:28:04.952Z
+date: 2022-06-25T14:52:08.019Z
 ---
 
 ```

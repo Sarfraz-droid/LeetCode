@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 221-maximal-square
-date: 2022-06-25T14:28:04.976Z
+date: 2022-06-25T14:52:08.048Z
 ---
 
 ```
@@ -70,7 +70,7 @@ public:
  ---
 layout: post
 title: 221-maximal-square
-date: 2022-06-25T14:28:04.976Z
+date: 2022-06-25T14:52:08.048Z
 ---
 
 ```

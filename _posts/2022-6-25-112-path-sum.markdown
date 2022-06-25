@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 112-path-sum
-date: 2022-06-25T14:28:04.951Z
+date: 2022-06-25T14:52:08.019Z
 ---
 
 ```
@@ -93,7 +93,7 @@ public:
  ---
 layout: post
 title: 112-path-sum
-date: 2022-06-25T14:28:04.951Z
+date: 2022-06-25T14:52:08.018Z
 ---
 
 ```

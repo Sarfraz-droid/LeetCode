@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 116-populating-next-right-pointers-in-each-node
-date: 2022-06-25T14:28:04.953Z
+date: 2022-06-25T14:52:08.021Z
 ---
 
 ```
@@ -109,7 +109,7 @@ public:
  ---
 layout: post
 title: 116-populating-next-right-pointers-in-each-node
-date: 2022-06-25T14:28:04.952Z
+date: 2022-06-25T14:52:08.021Z
 ---
 
 ```

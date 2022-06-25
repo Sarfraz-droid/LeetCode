@@ -1,7 +1,7 @@
 ---
 layout: post
 title: count-primes
-date: 2022-06-25T14:28:05.074Z
+date: 2022-06-25T14:52:08.128Z
 ---
 
 ```

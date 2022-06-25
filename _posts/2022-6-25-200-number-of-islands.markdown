@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 200-number-of-islands
-date: 2022-06-25T14:28:04.974Z
+date: 2022-06-25T14:52:08.046Z
 ---
 
 ```
@@ -83,7 +83,7 @@ public:
  ---
 layout: post
 title: 200-number-of-islands
-date: 2022-06-25T14:28:04.974Z
+date: 2022-06-25T14:52:08.046Z
 ---
 
 ```

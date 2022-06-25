@@ -1,7 +1,7 @@
 ---
 layout: post
 title: minimum-depth-of-binary-tree
-date: 2022-06-25T14:28:05.083Z
+date: 2022-06-25T14:52:08.141Z
 ---
 
 ```

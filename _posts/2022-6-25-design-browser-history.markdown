@@ -1,7 +1,7 @@
 ---
 layout: post
 title: design-browser-history
-date: 2022-06-25T14:28:05.075Z
+date: 2022-06-25T14:52:08.129Z
 ---
 
 ```

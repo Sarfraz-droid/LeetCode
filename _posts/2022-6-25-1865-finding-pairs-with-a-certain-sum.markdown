@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1865-finding-pairs-with-a-certain-sum
-date: 2022-06-25T14:28:04.971Z
+date: 2022-06-25T14:52:08.043Z
 ---
 
 ```
@@ -99,7 +99,7 @@ public:
  ---
 layout: post
 title: 1865-finding-pairs-with-a-certain-sum
-date: 2022-06-25T14:28:04.971Z
+date: 2022-06-25T14:52:08.043Z
 ---
 
 ```

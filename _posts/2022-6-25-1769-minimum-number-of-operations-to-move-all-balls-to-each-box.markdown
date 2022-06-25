@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1769-minimum-number-of-operations-to-move-all-balls-to-each-box
-date: 2022-06-25T14:28:04.970Z
+date: 2022-06-25T14:52:08.042Z
 ---
 
 ```
@@ -79,7 +79,7 @@ public:
  ---
 layout: post
 title: 1769-minimum-number-of-operations-to-move-all-balls-to-each-box
-date: 2022-06-25T14:28:04.970Z
+date: 2022-06-25T14:52:08.042Z
 ---
 
 ```

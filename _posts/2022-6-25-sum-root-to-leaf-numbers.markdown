@@ -1,7 +1,7 @@
 ---
 layout: post
 title: sum-root-to-leaf-numbers
-date: 2022-06-25T14:28:05.123Z
+date: 2022-06-25T14:52:08.151Z
 ---
 
 ```

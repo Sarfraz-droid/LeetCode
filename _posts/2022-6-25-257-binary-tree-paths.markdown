@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 257-binary-tree-paths
-date: 2022-06-25T14:28:04.979Z
+date: 2022-06-25T14:52:08.053Z
 ---
 
 ```
@@ -36,7 +36,7 @@ Constraints:
  ---
 layout: post
 title: 257-binary-tree-paths
-date: 2022-06-25T14:28:04.979Z
+date: 2022-06-25T14:52:08.053Z
 ---
 
 ```

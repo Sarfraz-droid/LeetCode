@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ransom-note
-date: 2022-06-25T14:28:05.086Z
+date: 2022-06-25T14:52:08.146Z
 ---
 
 ```

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1312-minimum-insertion-steps-to-make-a-string-palindrome
-date: 2022-06-25T14:28:04.959Z
+date: 2022-06-25T14:52:08.028Z
 ---
 
 ```
@@ -77,7 +77,7 @@ public:
  ---
 layout: post
 title: 1312-minimum-insertion-steps-to-make-a-string-palindrome
-date: 2022-06-25T14:28:04.959Z
+date: 2022-06-25T14:52:08.028Z
 ---
 
 ```

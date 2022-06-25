@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1672-richest-customer-wealth
-date: 2022-06-25T14:28:04.966Z
+date: 2022-06-25T14:52:08.038Z
 ---
 
 ```
@@ -67,7 +67,7 @@ public:
  ---
 layout: post
 title: 1672-richest-customer-wealth
-date: 2022-06-25T14:28:04.966Z
+date: 2022-06-25T14:52:08.038Z
 ---
 
 ```

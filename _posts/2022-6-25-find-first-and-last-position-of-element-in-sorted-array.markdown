@@ -1,7 +1,7 @@
 ---
 layout: post
 title: find-first-and-last-position-of-element-in-sorted-array
-date: 2022-06-25T14:28:05.077Z
+date: 2022-06-25T14:52:08.132Z
 ---
 
 ```

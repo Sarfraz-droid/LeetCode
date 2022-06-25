@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 433-minimum-genetic-mutation
-date: 2022-06-25T14:28:05.025Z
+date: 2022-06-25T14:52:08.064Z
 ---
 
 ```
@@ -119,7 +119,7 @@ public:
  ---
 layout: post
 title: 433-minimum-genetic-mutation
-date: 2022-06-25T14:28:05.025Z
+date: 2022-06-25T14:52:08.064Z
 ---
 
 ```

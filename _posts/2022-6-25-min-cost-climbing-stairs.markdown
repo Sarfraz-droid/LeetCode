@@ -1,7 +1,7 @@
 ---
 layout: post
 title: min-cost-climbing-stairs
-date: 2022-06-25T14:28:05.083Z
+date: 2022-06-25T14:52:08.140Z
 ---
 
 ```

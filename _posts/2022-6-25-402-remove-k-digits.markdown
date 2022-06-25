@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 402-remove-k-digits
-date: 2022-06-25T14:28:04.987Z
+date: 2022-06-25T14:52:08.061Z
 ---
 
 ```
@@ -44,7 +44,7 @@ Constraints:
  ---
 layout: post
 title: 402-remove-k-digits
-date: 2022-06-25T14:28:04.986Z
+date: 2022-06-25T14:52:08.061Z
 ---
 
 ```
